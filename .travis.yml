@@ -5,3 +5,5 @@ python:
 
 script:
   - python -m unittest discover
+  - coverage run test_python_code.py
+  - coverage report -m
