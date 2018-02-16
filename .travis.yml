@@ -8,6 +8,4 @@ install:
 
 script:
   - python -m unittest discover
-
-after_success:
   - codecov -t "25b86f3d-19b3-4acf-afdf-f538019a47dc"
