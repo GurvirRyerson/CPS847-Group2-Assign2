@@ -14,7 +14,7 @@ deploy:
     secure: TO+r2//z9X5J1lNcLS3CarKQ2XB13ZN881+jYNUPIeenFhCWDTatB/iPFB306m2n9zvFAbGrwtqWmNz3qUa5KvrLUUdpRGeqlJKBZ6vrZ+w970fn635B3ETvMPXv811vaj96AhS56dbNkDQHU/ghZlqfMZ+ygtI186IN9XkK83MCQwmnOf6ERC4Ztlctyc3OeoRdKKOY57NH0SGikt/tDMgqPJzOTrb9yImyh7l1k0vrUbqWs7VY3BBSaRxg0z2vKzDMbgA2Q1nf/SbXnML6a//jF/hFI7MzYzSXCSxwfcqNBkCKt8C1mTYqnI/FLvoFu09UQRn2MIbpHX15jRdVCiJf9K5tZe9AMW0kCE1eLcLZhn24sFhLzh5vXE+15UikWyHSBxmZnga5opQW4fhBDa5ZeMjPHfUGQmycIHmbbvKDDlbUw8sATKX5UjdmbyOv5OOYSePH+xeqrQlD46+baGrl0PkyXWyBwQ76RMb+G/Mg5g5FFh+N+x1Trj7NO6R8DjIed0PHwqvoYSGcDKJjgzSOgp2DQHIZdbYveU6AeDa8Gt3OiLfGKkqfoUIk0lFZpjOOky3XifiFkc4idBQZXoug2BKo+F+Ks4yC31kLkMK6ycIyrixDUpWynytCACLdlZpNZv1fqRix/RUkrk65C9xQo1ptOMBlIVVkjU4ph1E=
   bucket: zainabrizvi
   local-dir: s3-a2/public_html
-  region: us-west-2
+  region: us-east-2
   acl: public_read
   on:
     repo: GurvirRyerson/CPS847-Group2-Assign2
